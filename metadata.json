@@ -1,0 +1,6 @@
+{
+  "name": "Post Office Bulk Mailer Tool",
+  "description": "Easily map and merge address data from any Excel file into the Post Office bulk posting template with automatic formatting and error handling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
